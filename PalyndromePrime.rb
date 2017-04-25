@@ -1,3 +1,4 @@
+# this code sow an example of using lazy evaluation to create infinite lists
 def palindrome?(n)
 	n.to_s.reverse == n.to_s
 end
